@@ -55,7 +55,7 @@ INSERT INTO "devolucoes" (id_alugado, data) VALUES ('3', '2022-10-26');
 -- Filmes_alugados
 INSERT INTO "filmes_alugados" (id_alugado, id_dvd) VALUES ('1', '1');
 INSERT INTO "filmes_alugados" (id_alugado, id_dvd) VALUES ('2', '2');
-INSERT INTO "filmes_alugados" (id_alugado, id_dvd) VALUES ('2', '2');
+INSERT INTO "filmes_alugados" (id_alugado, id_dvd) VALUES ('3', '3');
 
 
 -- Filmes_Devoluções
